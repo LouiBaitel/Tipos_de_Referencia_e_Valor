@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\bin\Debug\net6.0\Aula2.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\bin\Debug\net6.0\Aula2.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\bin\Debug\net6.0\Aula2.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\bin\Debug\net6.0\Aula2.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\bin\Debug\net6.0\ref\Aula2.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\bin\Debug\net6.0\Aula2.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\ref\Aula2.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Exemplos de códigos\Aula2\obj\Debug\net6.0\Aula2.genruntimeconfig.cache
