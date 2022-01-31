@@ -1,0 +1,15 @@
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\bin\Debug\net6.0\Aula4.exe
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\bin\Debug\net6.0\Aula4.deps.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\bin\Debug\net6.0\Aula4.runtimeconfig.json
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\bin\Debug\net6.0\Aula4.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\bin\Debug\net6.0\ref\Aula4.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\bin\Debug\net6.0\Aula4.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.csproj.AssemblyReference.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.AssemblyInfoInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.AssemblyInfo.cs
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\ref\Aula4.dll
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.pdb
+C:\Users\Loui\Desktop\Arquivos de estudo - trabalho\Bootcamp GFT Start #3 .NET\Trabalhando com Tipos de Referência e Valor em C#\Exemplos de códigos\Aula4\obj\Debug\net6.0\Aula4.genruntimeconfig.cache
